@@ -38,12 +38,12 @@ To replicate the results in the paper, run the following commands:
 
 For MNIST experiments:
 ``` shell
-sh experiments/run_mnist.sh
+bash experiments/run_mnist.sh
 ```
 
 For CIFAR experiments:
 ``` shell
-sh experiments/run_cifar.sh
+bash experiments/run_cifar.sh
 ```
 
 ## Training
